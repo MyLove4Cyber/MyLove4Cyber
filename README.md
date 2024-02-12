@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I graduated in 2020 with AA degree in Cyber Security. I enjoy learning new technologies and dedication to solving complex problems.
+I graduated in 2020 with AA degree in Cyber Security. Since that time I have been fascinated by the world of technology. The ever-evolving landscape of cybersecurity, with its intricate challenges and the constant need for problem-solving, drew me in. I found joy in understanding the intricacies of network protocols, the complexity of encryption algorithms, and the art of ethical hacking. The thrill of uncovering vulnerabilities and the satisfaction of securing systems against potential threats has became my driving force. This is more than just a career path for me - it’s a passion that I pursue with dedication and enthusiasm. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
