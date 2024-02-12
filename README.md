@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I graduated in 2020 with AA degree in Cyber Security, I enjoy learning about new technologies and dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
