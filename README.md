@@ -1,4 +1,4 @@
-# Hello, I'm Tamond Whittington
+# Hello, I'm Tamond 
 <a href="https://linkedin.com/in/tamond-w-9598a9158"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
